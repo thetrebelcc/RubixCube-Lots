@@ -1,3 +1,5 @@
+![alt text](https://github.com/thetrebelcc/RubixCube-Lots/blob/main/RubixCube%20lots.jpg)
+
 # RubixCube-Lots
 
 This is a simple app that logins to Odoo and allows the user to generator stickers based on the lots of products. 
