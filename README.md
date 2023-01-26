@@ -2,8 +2,8 @@
 
 # RubixCube-Lots
 
-This is a simple app that logins to Odoo and allows the user to generator stickers based on the lots of products. 
-Created using the Tkinter library in Python. The page includes a user input field for the username and password, as well as a submit button to check the entered credentials against a predefined set of valid username and password combinations.
+This is a simple app that logins to Odoo and allows the user to generate stickers based on the lots of products. 
+Created using the Tkinter library in Python.
 
 ## Requirements
 Python 3
