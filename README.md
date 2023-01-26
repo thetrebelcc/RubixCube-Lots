@@ -18,3 +18,7 @@ If the entered credentials are valid, a message box will appear with the message
 If the entered credentials are not valid, a message box will appear with the message "Access denied".
 
 ## Lot sticker printing
+
+![alt text](https://github.com/thetrebelcc/RubixCube-Lots/blob/main/Screenshot%20(607).png)
+
+After you login to the Odoo DB, a list of lot will appear. Select the lots, and input the QTY to print. A pdf will be generator based on the amount. 
